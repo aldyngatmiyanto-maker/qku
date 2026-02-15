@@ -1,0 +1,7 @@
+{
+  "name": "AntriQu - Sistem Antrian Modern",
+  "description": "Aplikasi manajemen antrian modern dengan fitur real-time, dashboard analitik, dan asisten cerdas berbasis AI untuk estimasi waktu tunggu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
